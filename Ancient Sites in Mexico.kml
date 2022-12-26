@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ancient Sites in Mexico</name>
+    <description><![CDATA[Mexico is a fabulous place to explore ancient cultures.  Bill and Dorothy Bell have visited many of the sites and have phtographed them. Mexico is peppered with ruins from the Aztecs, Maya, Toltecs, Zapotecs and countless other ancient cultures. Besides the famous, spectacular ancient cities, more are still being discovered. Some smaller ruins are surprisingly beautiful, and many have spectacular hilltop or forest settings.<br>Click here to see some of the photography http://www.guanajuatoluna.com/]]></description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Chichen Itza Mayan Site</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW68KbNXA00eJRWmOxkZEa6j5ESubEcaN8D69WjwMMSaRX7dQxaJZBPo_Bh_Vk9Zzmbir4IjzfkTGuGG1fz_5vCMw3wY8XV3TJOqU2h8XL5ZVWJaLwfR3cmmyMNs4pCqOgJD0A" height="200" width="auto" /><br><br>Chichén Itzá Quintana Roo Mexico Mayan Ruins<br>Chichen Itza was a major regional focal point in the northern Maya lowlands from the Late Classic through the Terminal Classic and into the early portion of the Early Postclassic period. <br>Photographs by Bill Bell]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW68KbNXA00eJRWmOxkZEa6j5ESubEcaN8D69WjwMMSaRX7dQxaJZBPo_Bh_Vk9Zzmbir4IjzfkTGuGG1fz_5vCMw3wY8XV3TJOqU2h8XL5ZVWJaLwfR3cmmyMNs4pCqOgJD0A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.571949,20.679928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ek Balam Mayan Ruins</name>
+        <description><![CDATA[Ek'Balam - A Mayan City<br>Photography by Bill Bell<br><br>Ek'Balam Mayan city located 190 km east of Merida Ek'Balam Mayan Ruins, Mexico Only a few travelers know of it, but Ek'Balam contains one of the finest Mayan sculptures in the Yucatan. It also holds the record as one of the longest continuously inhabited communities in the area.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -88.135988,20.891246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uxmal  Mayan Yucatan Mexico</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6bLwh988JjfhcqCswJzPUCfqUvhNsZXSTrnwQMcwSUXNOaYruN3DPWY3JHonI2GBUCIaXZEnF0MAlt_0obcgtce0K03SQfhJDjd1szVKwSKPan3JnxtivIcTxi3AiW2MAFE3byHyO2_EB5HlvCqW_jgvaOkw" height="200" width="auto" /><br><br>Uxmal  Mayan Yucatan Mexico<br>Photographs by Bill Bell  Click on photographs to view in larger format<br>Uxmal (Yucatec Maya: Óoxmáal) is a large pre-Columbian ruined city of the Maya civilization in the state of Yucatán, Mexico. It is 78 km south of Mérida, Yucatán, or 110 km from that city on Highway 261 towards Campeche, Campeche), 15 km south-southeast of the town of Muna. Though it is thought to also have more than one hidden tomb of the gods.<br>Click here to view more on Uxmal (http://ontheroadin.com/Ancient%20Cities%202011/Uxmal%20.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6bLwh988JjfhcqCswJzPUCfqUvhNsZXSTrnwQMcwSUXNOaYruN3DPWY3JHonI2GBUCIaXZEnF0MAlt_0obcgtce0K03SQfhJDjd1szVKwSKPan3JnxtivIcTxi3AiW2MAFE3byHyO2_EB5HlvCqW_jgvaOkw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.77066,20.359836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kabah Mayan Ruins, Yucatan Mexico</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4bLP8oQCUYdG3b3BV0lip_Xe5r1oyPFpwQonFdifhsHkwQx6sC8hbEcnuz9wRG5bY2AXf17ZbEc-5NhZ8T_rTComfAe1Ohjj9zbOR23A7w1MSq8RbuwBaZZvNZYGQSx2FZS4xdKzVTrBK6YB81Gg" height="200" width="auto" /><br><br>Kabah Mayan Ruins, Yucatan Mexico<br> Photography by Bill and Dorothy Bell <br><br>The site of Kabah is located in the Yucatan Peninsula, south of the city of Merida. This archaeological site is famous for its palace with hundreds of carved stones representing the Mayan God Chac <br>To view more of Kabah click here (http://ontheroadin.com/Ancient%20Cities%202011/Kabah.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4bLP8oQCUYdG3b3BV0lip_Xe5r1oyPFpwQonFdifhsHkwQx6sC8hbEcnuz9wRG5bY2AXf17ZbEc-5NhZ8T_rTComfAe1Ohjj9zbOR23A7w1MSq8RbuwBaZZvNZYGQSx2FZS4xdKzVTrBK6YB81Gg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.647386,20.248387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sayil Mayan Ruins Yucatan Mexico</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7n5RlNQDIW9JqHLTeV7Q-XYW2oTZJNGcBbVjwvTOqZkhrpsIsKlHCbIPzBp_9MrLR1gGNbnhJqKG_rB9wQ8j91Z7G-eTmEdoIgp_E51SffPMWJR-QmZorFTaDNKW0IE5dDeCA40fRxzzxcw2HA" height="200" width="auto" /><br><br>Sayil Mayan Ruins Yucatan Mexico<br>Photography by Bill and Dorothy Bell<br>Sayil is a Maya archaeological site in the Mexican state of Yucatán, in the southwest of the state, south of Uxmal. It is incorporated together with Uxmal as a UNESCO World Heritage Site in 1996.<br>Click here to view more photographs of Sayil (http://ontheroadin.com/Ancient%20Cities%202011/Sayil.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7n5RlNQDIW9JqHLTeV7Q-XYW2oTZJNGcBbVjwvTOqZkhrpsIsKlHCbIPzBp_9MrLR1gGNbnhJqKG_rB9wQ8j91Z7G-eTmEdoIgp_E51SffPMWJR-QmZorFTaDNKW0IE5dDeCA40fRxzzxcw2HA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.651935,20.178213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elapak</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -89.60623,20.175615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Labna Mayan Ruins Mexico</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5z_pPAep-xoZu2zsiwB-zw3eQfWJi2lKmur4IxMTostDlggVlCobaeh26gaVuoSnVO5NPxEbeDtjZZ-qQFa9pR75Jkt1qllhA3-AtMgOecxcyRr3gK0wRu4awQhc3Ju-nf6A4" height="200" width="auto" /><br><br>Labna Mayan Ruins Mexico<br><br>Puuc  Mayan Ruins Mexico<br><br><br>Photography  by Bill Bell  and Dorothy Bell<br><br>Labna (or Labná in Spanish orthography) is a Mesoamerican archaeological site and ceremonial center of the pre-Columbian Maya civilization, located in the Puuc Hills region of the Yucatán Peninsula. It is situated to the south of the large Maya site of Uxmal, in the southwest of the present-day state of Yucatán, Mexico. It was incorporated with Uxmal as a UNESCO World Heritage Site in 1996.<br>To see more of this site click here (http://ontheroadin.com/Ancient%20Cities%202011/Labna.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5z_pPAep-xoZu2zsiwB-zw3eQfWJi2lKmur4IxMTostDlggVlCobaeh26gaVuoSnVO5NPxEbeDtjZZ-qQFa9pR75Jkt1qllhA3-AtMgOecxcyRr3gK0wRu4awQhc3Ju-nf6A4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.579108,20.174406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edzna</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4qWVOcIdReSUeaDIFHdryGlMQH9kj018aNHp44ZAiT2jxpZohURHbsTtwRMWeqol2G2CIrfAVAQZTh3fjSgwUWJXM-ocyzUBDnC_5_H-n2pE1mH7kFdyOGK7anMR3jZpj9K4Xt80M-fzTRU0-0ozR4qgvJ" height="200" width="auto" /><br><br>Edzna Mayan Ruins Campeche Mexico<br>Edzná is a Maya archaeological site in the north of the Mexican state of Campeche.<br>The most remarkable building at the plaza is the main temple. Built on a platform of 40 meters high, it provides a wide overview of the surroundings. Edzná was already inhabited in 400 BC, and was it abandoned round 1500 AD. In the Late-Classic period Edzná was part of the Calakmul polity.<br>The site is open to visitors.<br>Photography by Bill And Dorothy Bell  To view photograph in larger format click on it<br>Click here to see more (http://ontheroadin.com/Ancient%20Cities%202011/Edzna%20mayan%20ruins.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4qWVOcIdReSUeaDIFHdryGlMQH9kj018aNHp44ZAiT2jxpZohURHbsTtwRMWeqol2G2CIrfAVAQZTh3fjSgwUWJXM-ocyzUBDnC_5_H-n2pE1mH7kFdyOGK7anMR3jZpj9K4Xt80M-fzTRU0-0ozR4qgvJ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -90.2415273,19.597556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tulum Caribbean Archeological Maya </name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5dvbdh7of-jiogihrUW_B5dlYum7S8UvjvYbTdc6RgTPayAZZMQslfXhW3ao4wlNpRODTmIlbprwp0m3EI7VGtErtmy-Tg_eeuRbjagQ3LouxWLZVRjT5-7ONc_1vLRUz4KmJHWw" height="200" width="auto" /><br><br>Tulum Caribbean Archeological Maya <br>Photography by Bill Bell<br><br>Tulum ( (Tulu'um in Modern Maya) ; in Spanish orthography, Tulum) is the site of a Pre-Columbian Maya walled city serving as a major port for Cobá. The ruins are located on 12-meter (39 ft) cliffs, along the east coast of the Yucatán Peninsula on the Caribbean Sea in the state of Quintana Roo, Mexico. One of the best-preserved coastal Maya sites, Tulum is today a popular site for tourists<br>To see more of Tulum click here (http://ontheroadin.com/Ancient%20Cities%202011/Tulum%20.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5dvbdh7of-jiogihrUW_B5dlYum7S8UvjvYbTdc6RgTPayAZZMQslfXhW3ao4wlNpRODTmIlbprwp0m3EI7VGtErtmy-Tg_eeuRbjagQ3LouxWLZVRjT5-7ONc_1vLRUz4KmJHWw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.429231,20.214996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coba  Mayan Archeological site </name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5jG38yE0CVabtvW0Hpv-AiA_J9Vr8m3yxdR4lJZMJe6dyVksxhizL36BzRLApxfUKRQqJQEFVlk2VGTze_9ZutOkOQ2dpvkIoeitT3XlwiAXJI-A1I27yHXKz-9c3QUzo3SkoQ4g" height="200" width="auto" /><br><br>Coba  Mayan Archeological site<br>Photography by Bill and Dorothy Bell<br><br>Coba (Cobá in the Spanish language) is a large ruined city of the Pre-Columbian Maya civilization, located in the state of Quintana Roo, Mexico. It is located about 90 km east of the Maya site of Chichen Itza, about 40 km west of the Caribbean Sea, and 44 km northwest of the site of Tulum, with which it is connected by a modern road.<br>Click here to read more about this site  (http://www.ontheroadin.com/coba.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5jG38yE0CVabtvW0Hpv-AiA_J9Vr8m3yxdR4lJZMJe6dyVksxhizL36BzRLApxfUKRQqJQEFVlk2VGTze_9ZutOkOQ2dpvkIoeitT3XlwiAXJI-A1I27yHXKz-9c3QUzo3SkoQ4g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.735271,20.496492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kohunlich Quitana Roo Mexico Mayan Masks </name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6BH-PPA6vxCDG5MC5nBSwxHMgPFefduR-f_LaSzOK9snEpJRr0cGn1BRgxHi6C2sRbPhXKsZ9hCd8vwQYVRzdo5lCRfwa2vGS9UcimIaaCsswHvX4QQCt4tL3DrWNZianQFrvSA2Ae" height="200" width="auto" /><br><br>Kohunlich Quitana Roo Mexico Mayan Masks<br>Photography by Bill Bell<br><br>Kohunlich comes the name "Cohune Ridge". Cohune is a species of fruiting palm common to the area. <br><br>The site is best known for its Temple of the Masks, an Early Classic pyramid whose central stairway is flanked by huge humanized stucco masks. Built around 500 A.D., this is one of the oldest constructions at the site. After 700 A.D., this temple was covered over with a Terminal Classic construction, this protected the masks and allowed for the masks to remain in excellent shape with some of the original colors.<br>Click here to view more (http://ontheroadin.com/Ancient%20Cities%202011/Kohunlich.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6BH-PPA6vxCDG5MC5nBSwxHMgPFefduR-f_LaSzOK9snEpJRr0cGn1BRgxHi6C2sRbPhXKsZ9hCd8vwQYVRzdo5lCRfwa2vGS9UcimIaaCsswHvX4QQCt4tL3DrWNZianQFrvSA2Ae</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.791504,18.421639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calakmul</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5uJWb7web5LMhpD-fW3RxOaSWIlJgBRpkRwCN6TLMHZYdM8oFb-04oreaZU0wcnmkvLlm6oYn2jSyt3kLHuU3Ec3QsSMvkGudZujfKBTCkejGbozC5_hyuWhWfdxFjX-g0" height="200" width="auto" /><br><br>Calakmul, Mayan Ruins Deep in the Jungles of Campeche<br>Click here for more information (http://ontheroadin.com/Ancient%20Cities%202011/Calakmul.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5uJWb7web5LMhpD-fW3RxOaSWIlJgBRpkRwCN6TLMHZYdM8oFb-04oreaZU0wcnmkvLlm6oYn2jSyt3kLHuU3Ec3QsSMvkGudZujfKBTCkejGbozC5_hyuWhWfdxFjX-g0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.807739,18.112653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bekan Ruins</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6RfSi39CbA2Ao7CiwbVd5Ivr1y612lixQ4ttxNDzXkuB85-70XzHjB4xUdDuvsAXkW6bTG1QExbpIp7ecOj6qFWJ5xrS5fFvPlUBRMOCHYpvXuFY9rHKFP9cMlxCVMeu9ON0GIlNQBOf9zGVr74Q" height="200" width="auto" /><br><br>To view more click here (http://ontheroadin.com/Ancient%20Cities%202011/Becan.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6RfSi39CbA2Ao7CiwbVd5Ivr1y612lixQ4ttxNDzXkuB85-70XzHjB4xUdDuvsAXkW6bTG1QExbpIp7ecOj6qFWJ5xrS5fFvPlUBRMOCHYpvXuFY9rHKFP9cMlxCVMeu9ON0GIlNQBOf9zGVr74Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.465929,18.516166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicanna Campeche Mexico Mayan Ruins</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW75MFPKwfwjt8LlHb_w-xR-GMKyfcusXw1IdiKOZJEl1RyoX0JS6H52LAUvzFJEDoGyDKJ1vsVgqshR5uWU4EEIrlAZSI-c-wvJ4TViUAUykPcQVRfcGlSHRhSCT250JKJnpXiKNiJy" height="200" width="auto" /><br><br>Chicanna Campeche Mexico Mayan Ruins<br>Photography by Bill Bell<br>Chicanna was erected at the base of the Yucatan Peninsula. Its builders took advantage of a slight natural elevation to construct several groups of structures which served as rooms and enclosures for carrying out ritual ceremonies.<br> Discovered in 1966, the name alludes to the House of the Serpent-mouth. Occupation at it height dates from 300 B.C. to 250 A.D. with the last stages likely around 1100 A.D.<br>Click here to view more (http://ontheroadin.com/Ancient%20Cities%202011/Chicanna.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW75MFPKwfwjt8LlHb_w-xR-GMKyfcusXw1IdiKOZJEl1RyoX0JS6H52LAUvzFJEDoGyDKJ1vsVgqshR5uWU4EEIrlAZSI-c-wvJ4TViUAUykPcQVRfcGlSHRhSCT250JKJnpXiKNiJy</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.485703,18.506959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xpuhil Mayan site</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7vjN9Celg7WiORcAtHmIfKxc9e4IvmR5xmwwb0dN-RJILWofy_LLpaHLjc1YvYixy7Tex6liMRpHujb3Y2bvUff-BN3K0gj4lIPZHhqt-IsUbK9GCKF2rLqG5Bp1qrsFZDLA" height="200" width="auto" /><br><br>Xpuhil Mayan site<br><br>Photography by Bill Bell<br>Locate on Highway 186 on the border between Quintana Roo and Campeche<br>Xpuhil (also Xpujil) is a Maya archaeological site located in the Mexican state of Campeche, in the vicinity of the modern-day town of Xpujil. The area surrounding Xpuhil, along Federal Highway 186, is rich with other Maya sites, including Becan and Calakmul.<br>Click here to view more on this site (http://ontheroadin.com/Ancient%20Cities%202011/Xpuhil.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7vjN9Celg7WiORcAtHmIfKxc9e4IvmR5xmwwb0dN-RJILWofy_LLpaHLjc1YvYixy7Tex6liMRpHujb3Y2bvUff-BN3K0gj4lIPZHhqt-IsUbK9GCKF2rLqG5Bp1qrsFZDLA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.402962,18.513145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palenque Chiapas Mexico Mayan Ruins</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW65NtYAUHJ_SD-YWu0KmrUMjT0tSWkEVh5hCfmKT3_K6qvzshRstRbf4H7LSEydav-mpHgN_x80krd5xBxmHOwsxbpuFUnCmSQRzdHvlHpq2xY4r2KkjwV0m7cYv1WxiKu1" height="200" width="auto" /><br><br>Palenque Chiapas Mexico Mayan Ruins<br><br>The site of Palenque had been abandoned by the Maya people for several centuries, when the Spanish explorers arrived in Chiapas in the 16th century. The first European to visit the ruins and publish an account was Priest Pedro Lorenzo de la Nada in 1567; at the time the local Chol Maya called it Otolum meaning "Land with strong houses", de la Nada roughly translated this into Spanish to give the site the name "Palenque", meaning "fortification". Palenque also became the name for the town (Santo Domingo del Palenque) which was built over some peripheral ruins down in the valley from the main ceremonial center of the ancient city.<br>To view more of Palenque click here (http://www.ontheroadin.com/losgalleria/prehispanic/palenque.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW65NtYAUHJ_SD-YWu0KmrUMjT0tSWkEVh5hCfmKT3_K6qvzshRstRbf4H7LSEydav-mpHgN_x80krd5xBxmHOwsxbpuFUnCmSQRzdHvlHpq2xY4r2KkjwV0m7cYv1WxiKu1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -92.046118,17.484025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tonina</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6IbLbYJoPHCP8jYHugmyUZWPb1t9RrWHJY0aYR13qw5z1EsEn1uP6ra60Hwg1me9hGeUje6vwboNJhHEarW1KWgXLrGkUwoQYKSocz63l5IF-9cynGuoaCCZqZ1scyDmWvfgA" height="200" width="auto" /><br><br>Toniná ¨House of rocks¨ <br><br>Photography by Bill and dot Bell<br>Located in Chiapas Mexico and near Palenque, Toniná may have been built as early as 350 A.D. but one of its distinctions is having the last recorded date of the Maya long count.<br><br>The building technique here is interesting for the use of small rocks verses the larger type stones of the other nearby sites.<br>Click here to view more (http://www.ontheroadin.com/Ancient%20Cities%202011/chiaps_2716.jpg)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6IbLbYJoPHCP8jYHugmyUZWPb1t9RrWHJY0aYR13qw5z1EsEn1uP6ra60Hwg1me9hGeUje6vwboNJhHEarW1KWgXLrGkUwoQYKSocz63l5IF-9cynGuoaCCZqZ1scyDmWvfgA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -92.009897,16.900773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Guachimontones</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4i43omcmCUS-dDORxO3Hi4NdSjVdbo0NuLU7EO8IArMWAAGWCS0bFqk4jHlhsfSo75Xr07BaNtfo7NlJD1ZCj9ZMinTDcXOZJnL8nhsnJBTKu8iANGXRoqusB1m66FB1HZqus" height="200" width="auto" /><br><br>Los Guachimontones<br><br>"One of the most impressive archeological sites in all of western Mexico"<br>Story and Photography by Bill Bell<br>When you visit Puerto Vallarta or the Riviera Nayarit, the thought of trekking through some ancient pre Hispanic archeological site is usually not on the agenda. The well known sites such as Teotihuacan in Central Mexico or even Chichen Itza on the Yucatan Peninsula are hundreds if not thousands of kilometers away. <br>Still, for those travelers who love the west coast of Mexico but still yearn to explore ancient sites, both the states of Nayarit and Jalisco have much to offer. One of the finest examples is just outside the modest little town of Teuchitlán, Jalisco, 40 kilometers due West of Guadalajara. There lies one of the most impressive archeological sites in all of western Mexico, Los Guachimontones. <br>Los Guachimontones (alternatively Huachimontones) is a prehispanic archaeological site built by a complex society that existed from as early as 300 BC until 900 AD.<br><br>“Research has shown that the Teuchitlan Tradition was a pioneer in forging a civilized lifestyle in Western Mesoamerica. It probably evolved around 1000 B.C. and achieved an outstanding degree of social organization. Their deity was Ehecatl, god of wind, who was venerated in a flying ritual on the circular pyramids.”<br>Click here to view more (http://ontheroadin.com/Ancient%20Cities%202011/Los%20Guachimontones.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4i43omcmCUS-dDORxO3Hi4NdSjVdbo0NuLU7EO8IArMWAAGWCS0bFqk4jHlhsfSo75Xr07BaNtfo7NlJD1ZCj9ZMinTDcXOZJnL8nhsnJBTKu8iANGXRoqusB1m66FB1HZqus</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -103.820801,20.715015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muyil  (Chunyaxche)  Mayan Ruins</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7GnFl68_ARFSAm2vdUygYcXsVRx7EYXc_4qS7pFt0OaOMnPU1kcTj4UzOtV5UN1Z7pjqxJbDOOQH6pMebgWu6v7Hhe2ukbt3mMRlBEvtIO_Bf0MPQA4F9JGnvAVGe6DeYW" height="200" width="auto" /><br><br>Muyil  (Chunyaxche) <br><br><br>Quintana Roo Mexico Mayan Ruins<br>Photography by Bill Bell<br>Muyil was one of the earliest and longest inhabited ancient Maya sites on the eastern coast of the Yucatan Peninsula. It is located approximately 15 kilometres (9.3 mi) south of the coastal site of Tulum, in the modern day state of Quintana Roo, Mexico. Artifacts found here date back from as early as 350 BCE. to as late as 1200-1500 CE. Click here to read more (http://ontheroadin.com/Ancient%20Cities%202011/Muyil%20Chunyaxche.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7GnFl68_ARFSAm2vdUygYcXsVRx7EYXc_4qS7pFt0OaOMnPU1kcTj4UzOtV5UN1Z7pjqxJbDOOQH6pMebgWu6v7Hhe2ukbt3mMRlBEvtIO_Bf0MPQA4F9JGnvAVGe6DeYW</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.604465,20.091886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xelha Mayan ruins</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW66vDReyoDbOCw1t4t_Rj83_7tZA5zY732dtuGDrQy5xleeD-UHHfS7ssyM9pMa5trRPmmC_SO1TkxmSP5uJmu5ZLc5QvWJo4MAGTlzYm3htbT_rmpwAgcQBC6spDFb6w6o0JVrkF7KPlj_wy4xHUpt2Q" height="200" width="auto" /><br><br>Xelha Mayan ruins<br>The placement of Xel Ha is vital as a way to realize why this area was so vital to the spiritual life of the traditional Maya people. For it was here that pilgrims originated from all over Maya land (now referred to as Central America and the Yucatan) for their once-in-a-lifetime pilgrimage to the island of Cozumel. In days long past gone, Cozumel was named Ixchel, which is the name of the Maya goddess of love and fertility. For it was here, on this beautiful island only accessed by large canoes, that Maya people performed their ceremonies for abundant fertility, usually right before marriage.<br><br>Click to view and read more. (http://ontheroadin.com/Ancient%20Cities%202011/Xelha%20Mayan%20.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW66vDReyoDbOCw1t4t_Rj83_7tZA5zY732dtuGDrQy5xleeD-UHHfS7ssyM9pMa5trRPmmC_SO1TkxmSP5uJmu5ZLc5QvWJo4MAGTlzYm3htbT_rmpwAgcQBC6spDFb6w6o0JVrkF7KPlj_wy4xHUpt2Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.366006,20.318601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Tajin Ruins</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7OKf8B29gT1yYGn6rPzz3uRqGj_-WlYkmS29njTWnH0h5zAsMfuYHYWh_REyNlYlC77X9AnXf3plvZ31D3WrwrNeHblissuS86BfMY3Gy8Dkx5SGsXzNFGXIfdifIMkJ6jTzEkji6PeHr3fQ" height="200" width="auto" /><br><br>El Tajin Ruins<br><br> <br><br> <br>El Tajin is located in the State of Veracruz is inland 7 kms from the City of Poza Rica and costal Highway 180.<br>Outside this ancient site, Valadores, or “he who flys”, perform their ancient dance. From a 75 foot pole, 4 men twirl upside down, ropes tied on their waist, as the ropes unwind and lead them downward to the ground below. A musician named a Caporal, plays a drum and flute from a tiny platform perched on top of the pole and perform a ceremonial dance to invoke the Gods. <br>Click here to see more (http://ontheroadin.com/Ancient%20Cities%202011/El%20Tajin.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7OKf8B29gT1yYGn6rPzz3uRqGj_-WlYkmS29njTWnH0h5zAsMfuYHYWh_REyNlYlC77X9AnXf3plvZ31D3WrwrNeHblissuS86BfMY3Gy8Dkx5SGsXzNFGXIfdifIMkJ6jTzEkji6PeHr3fQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.378049,20.447602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Balam Kú Mayan Ruin Campeche Mexico</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4m_OTpFcjCGJ1WjRKcebWW--3rpIcJYt-mJRxGgKEbIaOp3ApTAzIK8oD_5pw8AvvMmzqN3Gj8XPZOiEf8i9CKyp8iczSc6jceEFUlu9UJaIJMXO0gSvnHM_3pMvIG8CotBmQ" height="200" width="auto" /><br><br>Balam Kú Mayan Ruin Campeche Mexico<br><br><br>Photography by Bill and Dorothy Bell<br><br><br>Near the village of Conhuas, in the Rio Bec area on Federal Highway 186 , a jungle track leads to an archaeological site with truly exceptional Mayan reliefs. Recently discovered (1990), the zone was  given a name meaning "Temple of the Jaguar", in reference to the felines characterizing the profuse decoration on the House of the Four Kings. <br><br><br>Click here to view more (http://ontheroadin.com/Ancient%20Cities%202011/Balam%20Ku.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4m_OTpFcjCGJ1WjRKcebWW--3rpIcJYt-mJRxGgKEbIaOp3ApTAzIK8oD_5pw8AvvMmzqN3Gj8XPZOiEf8i9CKyp8iczSc6jceEFUlu9UJaIJMXO0gSvnHM_3pMvIG8CotBmQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.945669,18.557333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Teotihuacan Mexico </name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4tnbGYsjW36CEbef7QC-W-GmbzwtMJFzDHR9-HH4IdnKXgCnnscDNSmhllL9HFXfnahKs4706iYGWAY1P5a1M-nkfBbXfISjgeFQB0Y232UTqGTyGRtjMLU-RC7HaabIU" height="200" width="auto" /><br><br>Teotihuacan Mexico Ancient ruins North Mexico City <br>Photography by Bill Bell<br>Teotihuacan is an enormous archaeological site in the Basin of Mexico, containing some of the largest pyramidal structures built in the pre-Columbian Americas. Apart from the pyramidal structures, the archaeological site of Teotihuacan is also known for its large residential complexes, the so-called "street of the dead"<br>To view more click here (http://www.ontheroadin.com/Ancient%20Cities%202011/Teotihuacan%20Mexico.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4tnbGYsjW36CEbef7QC-W-GmbzwtMJFzDHR9-HH4IdnKXgCnnscDNSmhllL9HFXfnahKs4706iYGWAY1P5a1M-nkfBbXfISjgeFQB0Y232UTqGTyGRtjMLU-RC7HaabIU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -98.846741,19.688051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Alban  ruins</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7C4ecBOFTFRuLvtk4Rsf2xCB8maJ-DiH5BL5Lv5nD9te2NXdUnXsWKxWDqvHfKLegEG-L8pZDP66Xts7FnxR0tb5McjPt0dQcGxqmVW10CgBco8Y26HhBHOIgBoGw0WIusPOE" height="200" width="auto" /><br><br>Monte Alban Oaxaca Mexico<br>	<br>		<br>			<br>				Monte Albán is a large								pre-Columbian (http://en.wikipedia.org/wiki/Pre-Columbian)								archaeological site (http://en.wikipedia.org/wiki/Archaeological_site) in the southern								Mexican (http://en.wikipedia.org/wiki/Mexico) state of								Oaxaca (http://en.wikipedia.org/wiki/Oaxaca). The site is located on a low mountainous range 				rising above the plain in the central section of the								Valley of Oaxaca (http://en.wikipedia.org/wiki/Valley_of_Oaxaca) where the latter's northern								Etla (http://en.wikipedia.org/w/index.php?title=Etlaaction=editredlink=1), eastern								Tlacolula (http://en.wikipedia.org/wiki/Tlacolula), and southern								Zimatlán (http://en.wikipedia.org/w/index.php?title=Zimatl%C3%A1naction=editredlink=1)/Ocotlán (http://en.wikipedia.org/wiki/Ocotl%C3%A1n_%28Oaxaca%29) 				(or								Valle Grande (http://en.wikipedia.org/w/index.php?title=Valle_Grande_%28Oaxaca%29action=editredlink=1)) branches meet. The present-day state capital								Oaxaca City (http://en.wikipedia.org/wiki/Oaxaca,_Oaxaca) is located approximately 9 km (5.8 mi) east of 				Monte Albán.			<br>Click here to view more (http://www.ontheroadin.com/Ancient%20Cities%202011/monte%20alban.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7C4ecBOFTFRuLvtk4Rsf2xCB8maJ-DiH5BL5Lv5nD9te2NXdUnXsWKxWDqvHfKLegEG-L8pZDP66Xts7FnxR0tb5McjPt0dQcGxqmVW10CgBco8Y26HhBHOIgBoGw0WIusPOE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.756592,17.02002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quiahuizlan</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6DWxf9Xsk8rnzk-CLttmujHbOIFQlslsr_tBTVoSXPsFo2W_SK6Ymm5zaMpdD0bIMpGYgXu2Uf8XWRLXniLa2gzCx4eqtw7OOWmw5Hma1Mehap_4HeroPLAVimUtf1l5saU4AeVEE8" height="200" width="auto" /><br><br>Quiahuizlan  Veracruz Mexico Photography<br>The spot where Cortez is said to have landed to begin the conquest of Mexico<br>Photography by Bill Bell <br>To read more click here (http://www.ontheroadin.com/Ancient%20Cities%202011/Veracruz.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6DWxf9Xsk8rnzk-CLttmujHbOIFQlslsr_tBTVoSXPsFo2W_SK6Ymm5zaMpdD0bIMpGYgXu2Uf8XWRLXniLa2gzCx4eqtw7OOWmw5Hma1Mehap_4HeroPLAVimUtf1l5saU4AeVEE8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.41593,19.669665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Tigre  Mayan Archeological</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5bbVFXfnFo2SSncegVDPEydeR3_Ssaj7l8YqyfWoqyjd1q_Z1SaYDEhf_xNLziRpn1NQRs6MEAFkObdR1UeTcsW_yXxU0mBvAeBUkhIl25wKTcwHICegpPhbyOLTcpKVg-suTQ2FE776uoYurCnw" height="200" width="auto" /><br><br>Tigre  Mayan Archeological Site Campeche Mexico<br>El Tigre is beautiful archaeological site located in midst of the jungle at 140 km west of Calakmul, on the banks of the Candelaria River in the southwest of the state of Campeche in the Yucatan Peninsula.<br> <br>Photography by Bill BellClick here for more information (http://www.ontheroadin.com/Ancient%20Cities%202011/el%20tigre.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5bbVFXfnFo2SSncegVDPEydeR3_Ssaj7l8YqyfWoqyjd1q_Z1SaYDEhf_xNLziRpn1NQRs6MEAFkObdR1UeTcsW_yXxU0mBvAeBUkhIl25wKTcwHICegpPhbyOLTcpKVg-suTQ2FE776uoYurCnw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -90.832558,18.135738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zempoala Veracruz archeological site</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW53rusYlMcyInXFBQvQsOJautXa2ex9yyBgPhkJOWSv33Lchbj6Z_f-dLgZuThiuTbpt_OE20rsAHeqzBGxCwutAYNlCJwtX-q0BN54KoN1400BcYOPmbpEkagaHmEpdtnUZXBmqCvBWd4Q" height="200" width="auto" /><br><br>Zempoala Veracruz archeological<br>Cempoala (or Zempoala) was an important Mesoamerican city. It was the largest city on the Gulf of Mexico and the capital of the kingdom of Totonacapan occupied by the Totonac people. At its peak, it had a population of between 25,000 and 30,000. The name means "place of the twenty waters" due to several rivers meeting near the site and is eight kilometes from the current city of Veracruz, Veracruz, one kilometre from the banks of the Río Actopan and six kilometres from the Gulf. The city was an important staging post in the conquest of Mexico by Hernán Cortés.<br><br><br>Click here to view more information (http://www.ontheroadin.com/Ancient%20Cities%202011/Cempoala.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW53rusYlMcyInXFBQvQsOJautXa2ex9yyBgPhkJOWSv33Lchbj6Z_f-dLgZuThiuTbpt_OE20rsAHeqzBGxCwutAYNlCJwtX-q0BN54KoN1400BcYOPmbpEkagaHmEpdtnUZXBmqCvBWd4Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.405029,19.435514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valley of the the Throat cutters</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7G0TX0_wTC1DyplMp4eEum3UoE76hucYoq2jcCt6mnYZg6bgqjNvtUkWHGmGvToD68-uQuQ1J3MK0n-84BxFLhxJrsg63r2gSrOsReU2YLxCITRxKZv1soFBGtLJUZYZ5GdqAD4HLmq2S8QIb2kJV7SDMIdg" height="200" width="auto" /><br><br>this location marker is only approximate because of cloud cover<br>The area is known as "La Pila del Rey", "Chacalán", "El Santuario", "The Petroglyphs” or "the Altavista petroglyphs", near the Jaltemba Bay, in the Pacific Ocean of Nayarit<br>This region was originally home to the largely unstudied Tecoxquin (Tequectequi) native culture dating from approximately 2000 BC to 2300 BCE. It contains 56 petroglyphs whose antiquity cannot be accurately determined. Aside from its cultural and archeological importance, the site remains an important religious center for the Huicholes who still leave offerings and perform ceremonies here.<br><br>Click here for more pictures and information on how to find this site (http://www.ontheroadin.com/Ancient%20Cities%202011/throat%20cutters.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7G0TX0_wTC1DyplMp4eEum3UoE76hucYoq2jcCt6mnYZg6bgqjNvtUkWHGmGvToD68-uQuQ1J3MK0n-84BxFLhxJrsg63r2gSrOsReU2YLxCITRxKZv1soFBGtLJUZYZ5GdqAD4HLmq2S8QIb2kJV7SDMIdg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -105.152743,21.125338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xochicalco</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW50IdMGvp0VHfnmYcC9QvjYoHQRnbtBegKaH9de-zi5zddNEOdL873j4bC2C_IZbdRvRfLhXmABzYAIdArtLeVVe61itrrgi1-OncHVrUIxXdn8sOiEzeTKhSLu8qPMlGhiBcJb3Slc" height="200" width="auto" /><br><br>Xochicalco is a pre-Columbian archaeological site in the Municipality of Miacatlán in the western part of the Mexican state of Morelos. The name Xochicalco may be translated from Nahuatl as "in the (place of the) house of Flowers". The site is located 38 km southwest of Cuernavaca, about 76 miles by road from Mexico City.<br><br>Click here for more information (http://www.ontheroadin.com/Ancient%20Cities%202011/xochicalco_5419.jpg)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW50IdMGvp0VHfnmYcC9QvjYoHQRnbtBegKaH9de-zi5zddNEOdL873j4bC2C_IZbdRvRfLhXmABzYAIdArtLeVVe61itrrgi1-OncHVrUIxXdn8sOiEzeTKhSLu8qPMlGhiBcJb3Slc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.298725,18.803456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitla</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6lKy6xxd-Ol6fz2gYTqMZgEGDt-pg5PZ4SEjAB047f_GawoM9L8GBZLl5CnkZZ7On28bna_5ovgPdsK3_ijUB9L9832JqGetHOItPE_-PHt1KQdRPrGKCW2p-mBYgKMlWuskT6eVhLeEq9Zqg" height="200" width="auto" /><br><br>Mitla is the second most important archeological site in the state of Oaxaca in Mexico, and the most important of the Zapotec culture. The site is located 44 km from the city of Oaxaca. in the upper end of the Tlacolula Valley, one of the three that form the Central Valleys Region of the state. The archeological site is within the modern municipality of San Pablo Villa de Mitla<br>click here to view more pictures (http://www.ontheroadin.com/Ancient%20Cities%202011/mitla.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6lKy6xxd-Ol6fz2gYTqMZgEGDt-pg5PZ4SEjAB047f_GawoM9L8GBZLl5CnkZZ7On28bna_5ovgPdsK3_ijUB9L9832JqGetHOItPE_-PHt1KQdRPrGKCW2p-mBYgKMlWuskT6eVhLeEq9Zqg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.3594,16.927898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yagul</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5guMoFZSGesA0ZOfEkOoKtRXKYRUtjzDJ4x-Au3jeNJ7s31OkeaSnoP7ANP8FrRCLm6uFKnRr8RRUpyqq7vvrh8dFlh8R12QglJ1yYireX-yV62q9I8Zkkrz1n9c3aSCEiEUbQEFbcbJBOYuI" height="200" width="auto" /><br><br>Yagul <br><br><br><br><br><br>Photography by Bill Bell <br><br>Yagul is an archaeological site and former city-state associated with the Zapotec civilization of pre-Columbian Mesoamerica, located in the Mexican state of Oaxaca. The site was declared one of the country's four Natural Monuments on 13 October 1998. The site is also known locally as Pueblo Viejo (Old Village) and was occupied at the time of the Spanish Conquest. After the Conquest the population was relocated to the nearby modern town of Tlacolula where their descendants still live.<br> <br>Click here to view more pictures (http://www.ontheroadin.com/Ancient%20Cities%202011/yagul.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5guMoFZSGesA0ZOfEkOoKtRXKYRUtjzDJ4x-Au3jeNJ7s31OkeaSnoP7ANP8FrRCLm6uFKnRr8RRUpyqq7vvrh8dFlh8R12QglJ1yYireX-yV62q9I8Zkkrz1n9c3aSCEiEUbQEFbcbJBOYuI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.449232,16.95743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lambityeco</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4N1XohvDL4DdTa761_LFw2V1TRQmJw6fBfgARQxtHIukAKUVbuzw-5qE4bPJBbi6tVVkcNufdFEchnA0G--_EjoYd_ISwDPf0aLpS8cPZfzQBfg80MkWhrX2qdzhsYEwOR00su" height="200" width="auto" /><br><br>Lambityeco is a small archaeological site just about 3 kilometers west of the Tlacolula city in the Mexican state of Oaxaca. It is located just off Highway 190 about 25 km (15.5 miles) east from the city of Oaxaca enroute to Mitla. The site has been securely dated to the Late Classical Period.<br>Click here to view more information (http://www.ontheroadin.com/Ancient%20Cities%202011/laambityco.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4N1XohvDL4DdTa761_LFw2V1TRQmJw6fBfgARQxtHIukAKUVbuzw-5qE4bPJBbi6tVVkcNufdFEchnA0G--_EjoYd_ISwDPf0aLpS8cPZfzQBfg80MkWhrX2qdzhsYEwOR00su</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.492048,16.972077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dainzu</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5yAdEwAwEQ1rKwwTIjXaEJElrm-5Y25gifYCHkJR9DTIfX-7NZsyFvVFro2VqMiLgHBWDa-BaWs8Sml68bdhzDkMcfBdZ7DYHiXRzYqXajfw5LZyDhmGfD57-e4kTiclfaS1A" height="200" width="auto" /><br><br>Dainzú<br>From Wikipedia, the free encyclopedia<br>Dainzú - Archaeological Site<br>Photography by Bill Bell<br>Dainzú is a Zapotec archaeological site located in the eastern side of the Valles Centrales de Oaxaca, about 20 km south-east of the city of Oaxaca, Oaxaca State, Mexico. It is an ancient village near to and contemporary with Monte Alban and Mitla, with an earlier development. Dainzú was first occupied 700-600 BC but the main phase of occupation dates from about 200 BC to 350 AD. <br>Click here to view more pictures (http://www.ontheroadin.com/Ancient%20Cities%202011/dainzu.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5yAdEwAwEQ1rKwwTIjXaEJElrm-5Y25gifYCHkJR9DTIfX-7NZsyFvVFro2VqMiLgHBWDa-BaWs8Sml68bdhzDkMcfBdZ7DYHiXRzYqXajfw5LZyDhmGfD57-e4kTiclfaS1A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -96.556773,17.003595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Templo Mayor and Templo Huitziloppchtli</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7HQO0DCeY9GU25nsWhVNyHlnUEiGcuntYhDaoG5brWpnfjtUAIYKRNhPLNcao4cOjEncDDqCMEnql_AFAuRqLTEddqnY6wB-GIEfX7x6snauyXSd2VyfQ55q8-70LnRHUlh__h" height="200" width="auto" /><br><br>Templo Mayor Urban Archeology at its Best<br><br>Photography by Bill and Dorothy Bell<br><br><br><br>The Templo Mayor was one of the main temples of the Aztecs in their capital city of Tenochtitlan, which is now Mexico City. Its architectural style belongs to the late Postclassic period of Mesoamerica. The temple was called the huey teocalli in the Nahuatl language and dedicated simultaneously to two gods, <br>Click here to read and see more on this site (http://www.ontheroadin.com/Ancient%20Cities%202011/aztec.htm)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7HQO0DCeY9GU25nsWhVNyHlnUEiGcuntYhDaoG5brWpnfjtUAIYKRNhPLNcao4cOjEncDDqCMEnql_AFAuRqLTEddqnY6wB-GIEfX7x6snauyXSd2VyfQ55q8-70LnRHUlh__h</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.131307,19.434902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonampak</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4kJfVXpSgG8xYJoN3CoX9mR1e7XsxtMQPEp5OOcH2GKD8fLPnE1qqUZkqp5itfozUupmC-L-CPR4z1i5TuOfHSa3rCNH43nPVksDNAWwdp7Dixb_H890LJE8CgFy-oJrce5-V8Jg" height="200" width="auto" /><br><br>Bonampak is a small site with Medium sized pyramids and temples. It’s claim to fame is the Temple of Murals with three rooms that house world famous murals. The turquoise, rust and yellows are bright and clear as you duck into the 3 chambers on top of the temple.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4kJfVXpSgG8xYJoN3CoX9mR1e7XsxtMQPEp5OOcH2GKD8fLPnE1qqUZkqp5itfozUupmC-L-CPR4z1i5TuOfHSa3rCNH43nPVksDNAWwdp7Dixb_H890LJE8CgFy-oJrce5-V8Jg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.064794,16.703882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Usumacinta River to Yaxchilan</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4eJTKpKRSnZ4IxYzjl_bo-bKsTNodLCK-irn8LQRCO30PBkKo9DLl4ZtTcga3Zv-zZZ0IWG_gqBaSPCRS2ezCr8DwSVVw3WHHr4DaVIk7Vqhm_XO2B7Hs2MdZIzheBJC2jVEmx8HT14bBs" height="200" width="auto" /><br><br>Usumacinta River to Yaxchilan Maya ruins<br><br>Yaxchilan (also sometimes historically referred to by the names Menché and City Lorillard) is an ancient Maya city located on the bank of the Usumacinta River in what is now the state of Chiapas, Mexico. In the Late Classic Period Yaxchilan was one of the most powerful Maya states along the course of the Usumacinta, with Piedras Negras as its major rival Architectural styles in subordinate sites in the Usumacinta region demonstrate clear differences that mark a clear boundary between the two kingdoms.<br>Click here to view more photography of this site (http://www.guanajuatoluna.com/yaxchilan/index.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4eJTKpKRSnZ4IxYzjl_bo-bKsTNodLCK-irn8LQRCO30PBkKo9DLl4ZtTcga3Zv-zZZ0IWG_gqBaSPCRS2ezCr8DwSVVw3WHHr4DaVIk7Vqhm_XO2B7Hs2MdZIzheBJC2jVEmx8HT14bBs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -90.965863,16.898936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tikal</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6lge7G8AQMdFQ7fhVJQwZUOGDeLY1eIyoY29PFV19t-bC0yD1bhISICp-1e0sfymw_4Eszafq0XiZ_jpHf0DMGiBnh5efiorkyE-theD56tuqX92Z7D0Vbxvl593lwoVTrgjWK" height="200" width="auto" /><br><br>Tikal (or Tik’al according to the modern Mayan orthography) is one of the largest archaeological sites and urban centres of the pre-Columbian Maya civilization. It is located in the archaeological region of the Petén Basin in what is now northern Guatemala.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6lge7G8AQMdFQ7fhVJQwZUOGDeLY1eIyoY29PFV19t-bC0yD1bhISICp-1e0sfymw_4Eszafq0XiZ_jpHf0DMGiBnh5efiorkyE-theD56tuqX92Z7D0Vbxvl593lwoVTrgjWK</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.622688,17.222709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tenam Puente </name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4vy8QhqSicZcamCoQytvb0dbUb8B8fdJLWW7N9zviagfZppI4HV7fRSnt18L3AyCKaelbAF0AtQTZOkY4iScVuXKrn8gr0BNuH0FAjURvXpJX79OMZsrP2Uj-I7Gl9y45X-fyH-ANyyK78XN8DVd2Yt4XzySlffOCL9oTgUxbcvw" height="200" width="auto" /><br><br>Tenam Puente is a medium sized Mayan site located in the Mayan Highlands 12 kms south of Comitán in Chiapas. You can easily visit the site by bus or car and will enjoy the views, three ballcourts and climbable pyramids and plazas. <br>Click here to view more photography (http://www.guanajuatoluna.com/tenam%20puente/index.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4vy8QhqSicZcamCoQytvb0dbUb8B8fdJLWW7N9zviagfZppI4HV7fRSnt18L3AyCKaelbAF0AtQTZOkY4iScVuXKrn8gr0BNuH0FAjURvXpJX79OMZsrP2Uj-I7Gl9y45X-fyH-ANyyK78XN8DVd2Yt4XzySlffOCL9oTgUxbcvw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -92.108259,16.140754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chinkultic   Mayan Ruins Chiapas</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW642fNKnwW4JaobdiVQiNcmEyapjveXqrZyOAqcr36AY2WXg48ICMbB6mto2wWLXHmwuW9R6H_piB-169jSlv2Jmevxf8gA3PQPaXTY8RZcj8lrY9t3opkOl4Ry6QyAwEapn1C7n3hK-Ju6ZkN6gjXF" height="200" width="auto" /><br><br>Chinkultic<br>  Mayan Ruins Chiapas Chinkultic, sometimes Chincultic, is a <br>moderate-size archeological ruin in the state of Chiapas, Mexico, some <br>56 km from Comitán, the nearest city. It is part of the Lagunas de <br>Montebello National Park.<br>Click here to view more photography of this site (http://www.guanajuatoluna.com/chinkultic/index.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW642fNKnwW4JaobdiVQiNcmEyapjveXqrZyOAqcr36AY2WXg48ICMbB6mto2wWLXHmwuW9R6H_piB-169jSlv2Jmevxf8gA3PQPaXTY8RZcj8lrY9t3opkOl4Ry6QyAwEapn1C7n3hK-Ju6ZkN6gjXF</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.785064,16.12884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Venta Olmec</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW7Rl3bKMoKPlCEszDnY9MkVd_yuOk2tq5Cou-kR2ZcPJR1gqwAqx0AxLlb93GHWdUVUNE7rBKhLaJo24AmwFPVyIvbdsuBm_hBM8kaC6m3qMDMcwtSCtDJBSlpWxlhmkq9wX3hpXMPzmLl4VtoP6dg" height="200" width="auto" /><br><br>La Venta is a pre-Columbian archaeological site of the Olmec civilization located in the present-day Mexican state of Tabasco. Some of the artifacts have been moved to the museum "Parque - Museo de La Venta", which is in Villahermosa, the capital of Tabasco.<br>Click here to view more La Venta Photography  (http://www.guanajuatoluna.com/la%20venta/index.html)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW7Rl3bKMoKPlCEszDnY9MkVd_yuOk2tq5Cou-kR2ZcPJR1gqwAqx0AxLlb93GHWdUVUNE7rBKhLaJo24AmwFPVyIvbdsuBm_hBM8kaC6m3qMDMcwtSCtDJBSlpWxlhmkq9wX3hpXMPzmLl4VtoP6dg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -94.042615,18.103047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
