@@ -34,7 +34,7 @@
     <img src="images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Wind Farms UK</h3>
+<h3 align="center">Over 6000 Mayan Sites</h3>
 
   <p align="center">
     Dashboard to explore a map of over 6000 Mayan sites
